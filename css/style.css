@@ -1,7 +1,14 @@
-div{
+.container,.container-fluid,.container-sm{
     height: 250px;
     background-color: purple;
     color: white;
     font-size: 50px;
-    margin: 20px;
+}
+.row{
+    border: 3px solid red;
+}
+
+.col{
+    color: white;
+    background-color: slategray;
 }
